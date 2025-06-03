@@ -35,6 +35,7 @@ Whether you're navigating growth spurts, decoding sleep patterns, or seeking exp
 ## 📂 Project Structure
 
 babywise-ai-chatbot/
+
 ├── data/ # Curated knowledge base (PDFs, articles, scraped pages)
 ├── docs/ # Structured JSON/Markdown per category
 ├── src/
