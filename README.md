@@ -29,20 +29,3 @@ Whether you're navigating growth spurts, decoding sleep patterns, or seeking exp
 9. Environmental Factors & Development  
 10. Parent Self-care & Relationships  
 11. Extras – Humor, Anecdotes, Conflicting Advice (Doctors vs Parents)
-
----
-
-## 📂 Project Structure
-
-babywise-ai-chatbot/
-
-├── data/ # Curated knowledge base (PDFs, articles, scraped pages)
-├── docs/ # Structured JSON/Markdown per category
-├── src/
-│ ├── agents/ # AI agent logic
-│ ├── chains/ # Prompt chains / RAG pipelines
-│ ├── retriever/ # Vector DB, embeddings
-│ └── app.py # Main chatbot app (FastAPI / Streamlit)
-├── notebooks/ # Research or data extraction notebooks
-├── requirements.txt # Dependencies
-└── README.md # You're here
